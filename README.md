@@ -10,7 +10,7 @@ It works for different datasets, like MSRA10K, BDD100K, and COCO2017, as the fol
 ![image](https://github.com/destiny301/selective-attention/blob/main/figures/flowchart.jpg)
 
 ## Citation
-If you use DPR in your research or wish to refer to the results published here, please use the following BibTeX entry. Sincerely appreciate it!
+If you use selective-attention in your research or wish to refer to the results published here, please use the following BibTeX entry. Sincerely appreciate it!
 ```shell
 @inproceedings{zhang2023improving,
   title={Improving the Efficiency of CMOS Image Sensors through In-Sensor Selective Attention},
